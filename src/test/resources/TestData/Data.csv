@@ -1,0 +1,9 @@
+email,password,cid,comName,ARCNumber,TravelAgency,AccountType,Name,contactNameList,contactEmail,contactPhone,contactRole,secondaryAccount
+avery.fulltmc@test.com,test12345,99587574,SWABIZ Test Account,80901478,Emilys Travel Agency,TMC,Avery,CTM Aman|Satvik CTM|avery fulltmc,satvik.mandava@slalom.com,(555) 059-1926,CTM Full Access,ChenMed
+jhon.doe@test.com,Test@123,99557474,Rite Hite Corporation,80901479,Emilys Travel Agency,CTM,Jhon Doe,Jhon Doe|avery fulltmc|chaitanya krihna,sandboxannette.ross@business,(555) 059-9066,CTM Full Access,null
+rebecca.doe@wnco.com,Test@1234,99895051,Tanyas Tacos,80901479,Emilys Travel Agency,CTM,Rebecca Doe,Rebecca Doe|Satvik CTM|Tanya|Terry Doe,sandboxannette.ross@business,(555) 059-9066,CTM Full Access,null
+automation.crliaison@test.com,Test@1234,null,null,null,null,null,null,null,null,null,null,null
+automation.sysadm@test.com,Test@1234,null,null,null,null,null,null,null,null,null,null,null
+Aman.Kanchamreddy@wnco.com,Test@1234,null,null,null,null,null,null,null,null,null,null,null
+mark.varied_access_ctm@test.com,test12345,99276774,Disney Worldwide Services,null,null,CTM,null,Anne Hamilton|Chris Singh|David Hoenig|Debbie Lorenzen|Dianna Raymond,null,null,CTM Full Access,null
+automation.test@wnco.com,Test@12345,null,null,null,null,null,null,null,null,null,null,null
